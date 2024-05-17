@@ -2,7 +2,6 @@ package repository
 
 import "github.com/gofiber/fiber/v2"
 
-
 func (repo *Repository) SetupRoutes(app *fiber.App) {
 	//routes.Setup(repo, app)
 	app.Static("/", "./client/public")

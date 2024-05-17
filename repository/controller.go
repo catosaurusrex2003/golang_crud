@@ -3,8 +3,8 @@ package repository
 import (
 	"net/http"
 
-	"github.com/codetagon/crud-go-react/database/migrations"
-	"github.com/codetagon/crud-go-react/database/models"
+	"github.com/catosaurusrex2003/golang_crud/database/migrations"
+	"github.com/catosaurusrex2003/golang_crud/database/models"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/morkid/paginate"

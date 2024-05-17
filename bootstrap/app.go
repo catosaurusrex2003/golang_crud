@@ -4,9 +4,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/codetagon/crud-go-react/database/migrations"
-	"github.com/codetagon/crud-go-react/database/storage"
-	"github.com/codetagon/crud-go-react/repository"
+	"github.com/catosaurusrex2003/golang_crud/database/migrations"
+	"github.com/catosaurusrex2003/golang_crud/database/storage"
+	"github.com/catosaurusrex2003/golang_crud/repository"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/cors"
 	"github.com/joho/godotenv"
