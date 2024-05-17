@@ -1,4 +1,4 @@
-module github.com/codetagon/crud-go-react
+module github.com/catosaurusrex2003/golang_crud
 
 go 1.18
 
